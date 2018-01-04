@@ -1,0 +1,54 @@
+{
+  "images": [
+
+    {
+      "image" : "Frame01.jpg",
+      "name" : "Frame01",
+      "uid" : "uid-string, should NOT duplicate",
+      "meta" : "what ever string you like."
+    },
+    {
+      "image": "Frame02.jpg",
+      "name": "Frame02"
+    },
+	{
+      "image": "Frame03.jpg",
+      "name": "Frame03"
+    },
+	{
+      "image": "Frame04.png",
+      "name": "Frame04"
+    },
+	{
+		"image": "Frame05.jpg",
+      "name": "Frame05"
+	},
+	{
+		"image": "Frame06.jpg",
+      "name": "Frame06"
+	},
+			{
+		"image": "Frame07.jpg",
+      "name": "Frame07"
+	},
+			{
+		"image": "Frame08.jpg",
+      "name": "Frame08"
+	},
+			{
+		"image": "Frame09.jpg",
+      "name": "Frame09"
+	},
+					{
+		"image": "Frame10.jpg",
+      "name": "Frame10"
+	},
+					{
+		"image": "Frame11.jpg",
+      "name": "Frame11"
+	},			{
+		"image": "Frame12.jpg",
+      "name": "Frame12"
+	}
+  ]
+}
